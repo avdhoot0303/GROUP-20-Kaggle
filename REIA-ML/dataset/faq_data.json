@@ -1,0 +1,370 @@
+[
+    {
+      "title": "Why Powerwall",
+      "content": "Powerwall is a rechargeable home battery system designed to maximize your home's energy independence. That means seamless backup and a smaller carbon footprint for your home, and potentially savings on your electricity bill. Powerwall is an intelligent system that can be customized to your energy needs, with the ability to charge from solar so energy is always available on demand. With Powerwall 3, supply more power with a single Powerwall unit to meet your present or future needs for your home. Learn more about what to expect with Powerwall 3.",
+      "category": "Introduction"
+    },
+    {
+      "title": "Seamless Backup",
+      "content": "When the grid goes down, solar energy will continue to power your home and charge your Powerwall. With Storm Watch enabled, Powerwall can communicate to the National Weather Service and prioritize charging in anticipation of severe weather. In the event of Powerwall changing status due to severe weather, you will receive a push notification from the Tesla app.",
+      "category": "Feature"
+    },
+    {
+        "title": "Self-Powered Home",
+        "content": "At night, Powerwall can provide your home with clean energy that you've generated from solar during the day.",
+        "category": "Feature"
+    },
+    {
+        "title": "Time-Based Control",
+        "content": "If your utility offers Time-of-Use rates, you can use less expensive solar energy you've already generated to avoid electrical charges during more expensive rate periods.",
+        "category": "Feature"
+    },
+    {
+        "title": "Monitoring",
+        "content": "Each Powerwall installation includes a complete energy monitoring solution for your home. You can see how your home both produces and uses energy at any given time.",
+        "category": "Feature"
+    },
+    {
+        "title": "Tesla Electric",
+        "content": "Tesla Electric is a retail electricity provider designed for Tesla vehicle and Powerwall owners in Texas. Tesla Electric allows you to power your home with clean energy while lowering your utility bill. With a convenient mobile app experience, you can also track energy rates in real time, review your energy usage and more. Learn more about program eligibility and benefits.",
+        "category": "Provider"
+    },
+    {
+        "title": "How Powerwall Works",
+        "content": "Powerwall gives you the ability to store energy for later use and works with solar to provide key energy security and financial benefits. Each Powerwall system is equipped with energy monitoring, metering and smart controls for owner customization using the Tesla app. The system learns and adapts to your energy use over time and receives over-the-air updates to add new features and enhance existing ones.",
+        "category": "Operation"
+    },
+    {
+        "title": "Models of Powerwalls",
+        "content": "Powerwall is a rechargeable home battery system that can be installed with solar. Powerwall 3 and Powerwall+ are designed for owners installing a new solar and storage system. Solar systems are integrated directly into the Powerwall, for higher efficiency and more compact installation with solar inverters being included. Powerwall 2  is designed to be added on to existing solar systems and is compatible with all major inverter brands.",
+        "category": "Model"
+    },
+    {
+        "title": "Powerwall 2",
+        "content": "Energy Capacity: 13.5 kWh*\nOn-Grid Power: 5 kW continuous\nBackup Power: 7 kW peak\nSize and Weight: 45.3 in x 29.6 in x 5.75 in, 251.3 lbs\nInverter: N/A\nInstallation: Floor or wall mounted\nWarranty: 10 years",
+        "category": "Specification"
+    },
+    {
+        "title": "Powerwall+",
+        "content": "Energy Capacity: 13.5 kWh*\nOn-Grid Power: 7.6 kW / 5 kW continuous†\nBackup Power: 9.6 kW / 7 kW continuous†\nSize and Weight: 62.8 in x 29.7 in x 6.3 in, 343.9 lbs\nInverter: Solar-to-grid efficiency 97.5%\nInstallation: Indoor or outdoor, Up to 4 units\nWarranty: 10 years",
+        "category": "Specification"
+    },
+    {
+        "title": "Powerwall 3",
+        "content": "Energy Capacity: 13.5 kWh\nOn-Grid Power: 11.5 kW continuous\nBackup Power: 22 kW / 10 kW peak†\nSize and Weight: 43.25 in x 24 in x 7.6 in, 287 lbs\nInverter: 4 solar inputs with Maximum Power Point Trackers\nInstallation: Flood and dust resistance‡, Up to 4 units\nWarranty: 10 years",
+        "category": "Specification"
+    },
+    {
+        "title": "With Solar",
+        "content": "When the sun rises, solar begins powering the home. When additional power is required for the home, the home can pull it from the utility grid.\nPowerwall is charged by solar during the day, when solar panels are producing more electricity than the home is consuming. Powerwall then stores that energy until the home needs it, such as when solar is no longer producing at night, or when the utility grid is offline during a power outage. With Tesla, when your Powerwall system changes status, such as the utility grid going down or offline, you can expect to receive notifications from the Tesla app.\nWhen the sun comes out the next day, solar recharges Powerwall so you have a cycle of clean, renewable energy.",
+        "category": "Operation"
+      },
+      {
+        "title": "Without Solar",
+        "content": "If your electricity rates vary throughout the day, Powerwall can charge when your utility’s electricity costs are low and discharge when electricity costs are high, generating automatic savings. Powerwall will also provide seamless backup power by detecting grid outages and automatically becoming the home's main power source.",
+        "category": "Operation"
+      },
+      {
+        "title": "Without Backup",
+        "content": "When Powerwall+ is installed by itself with a non-backup configuration, it fully operates when the grid is active but does not provide power when there is a grid outage. Owners can use the power they generate with solar at night, export energy at peak prices and participate in Virtual Power Plant programs.\nNote: Non-backup is not currently supported for Powerwall 2 and Powerwall 3.",
+        "category": "Operation"
+      },
+      {
+        "title": "Modes",
+        "content": "Powerwall+ configured with Backup Gateway or Backup Switch\nPowerwall+ configured without backup\nSelf-Powered\nTime-Based Control\nVirtual Power Plant\nBackup Reserve",
+        "category": "Feature"
+      },
+      {
+        "title": "Features",
+        "content": "Powerwall+ configured with Backup Gateway or Backup Switch\nPowerwall+ configured without backup\nUtility Rate Plans\nStorm Watch\nOff-Grid Vehicle Charging\nGo Off-Grid",
+        "category": "Feature"
+      },
+      {
+        "title": "Impact Cards",
+        "content": "Powerwall+ configured with Backup Gateway or Backup Switch\nPowerwall+ configured without backup\nSelf-Powered\nSolar and Energy Value\nSolar Offset\nTime-of-Use\nBackup History",
+        "category": "Feature"
+      },
+      {
+        "title": "Future Backup Upgrades",
+        "content": "A non-backup system can be upgraded to include backup features later using Backup Switch. Reach out to your installer about the outlook for upgrading to a backup system.\nNote: Californian utilities are expected to approve Backup Switch for residential homes by 2024.",
+        "category": "Feature"
+      },
+      {
+        "title": "What Can Powerwall Back Up",
+        "content": "Powerwall is designed to store solar generation for use at night and protect against power outages. How much your Powerwall can back up and for how long is dependent on multiple factors such as the number of Powerwalls and appliances you have and your home’s energy usage.\nDepending on the number of Powerwalls and type of backup protection, what your Powerwall can back up includes 120 V loads such as lights, plugs and small appliances as well as 240 V heavy loads such as air conditioners, electric cooking ranges, well pumps, EV charging, electric dryers, electric water heaters and pool pumps.",
+        "category": "Operation"
+      },
+      {
+        "title": "Types of Backup Protection",
+        "content": "The energy needs of your home and the number of Powerwalls determine whether whole home backup or partial home backup is provided.\nWhole Home Backup\nPartial Home Backup",
+        "category": "Operation"
+      },
+      {
+        "title": "Next Steps in Sizing Your System",
+        "content": "You can get a general indication of how many Powerwalls may be suitable for your home on our website. To see how many Powerwalls you will need to back up your home during a power outage, design your Powerwall, select ‘View Backup Guide’ and enter your electric bill. Select your Powerwall model to determine what your Powerwall can back up.\nHowever, there are many variables such as climate, home orientation and energy use goals, that make each home unique. For a final detailed recommendation on system design, talk to your Tesla Advisor or a Tesla Certified Installer.",
+        "category": "Guide"
+      },
+      {
+        "title": "Appliances Compatible for Back Up",
+        "content": "Your Powerwall can back up most appliances including:\nStandard appliances such as refrigerators, lights, Wi-Fi routers, televisions and microwaves\nEnergy intensive appliances such as dishwashers and air conditioners",
+        "category": "Operation"
+      },
+      {
+        "title": "Powerwall System Design",
+        "content": "A Powerwall system consists of at least one Powerwall battery and a Backup Gateway or a Backup Switch. Powerwall, in conjunction with a Backup Gateway or Backup Switch, will power the home during a grid outage. When the system is installed with solar, Powerwall stores solar energy produced to power the home when the sun isn’t shining.",
+        "category": "Design"
+      },
+      {
+        "title": "Typical System Design",
+        "content": "The Powerwall system configuration installed at your home may vary, depending on:\nThe size of your solar system\nThe model of your Powerwall\nHow many Powerwalls you have purchased with solar\nNote: Installation should only be performed by Tesla or a Tesla Certified Installer.",
+        "category": "Design"
+      },
+      {
+        "title": "Other System Designs",
+        "content": "A service that is greater than 200 A can be backed up using one of two methods. For whole home backup, we will split the service into multiple systems of 200 A increments and install a Backup Gateway and Powerwall(s) for each system. If the service cannot be split into two systems, then one Backup Gateway will be used to back up as much of your home’s service as possible, up to a 200 A limit, and considering site-specific installation complexities.",
+        "category": "Design"
+      },
+      {
+        "title": "System Components",
+        "content": "There are many variables such as climate, home orientation and energy use goals, that make each home unique. For a final detailed recommendation on system design, talk to your Tesla Advisor or a Tesla Certified Installer. Typically, your Powerwall system consists of:\n- Powerwall 3, Powerwall+ or Powerwall 2\n- Backup Gateway or Backup Switch\n- Tesla Solar Inverter\n- Additional Electrical Hardware",
+        "category": "Design"
+      },
+      {
+        "title": "Backup Gateway or Backup Switch",
+        "content": "Backup Gateway controls system operation, detects grid outages, enables backup power from the battery and functions as a site meter. Backup Gateway may be installed in whole home or partial home backup systems.\nBackup Switch detects grid outages, enables backup power from the battery and functions as a site meter. Backup Switch is installed in whole home backup systems. Tesla Backup Switch may not be approved by some utilities.",
+        "category": "Component"
+      },
+      {
+        "title": "Tesla Solar Inverter",
+        "content": "Tesla Solar Inverter converts DC power from solar to AC power for home consumption. Tesla Solar Inverter can be installed with Powerwall 2. Powerwall 3 and Powerwall+ have an integrated solar inverter.",
+        "category": "Component"
+      },
+      {
+        "title": "Additional Electrical Hardware",
+        "content": "Additional electrical hardware includes electrical panels, conduit, disconnects, meters and more. These are installed based on site needs and code requirements.",
+        "category": "Component"
+      },
+      {
+        "title": "Tesla Backup Switch",
+        "content": "Utilities throughout the U.S. have experienced unprecedented reliability challenges over the past several years. Extreme weather conditions resulting in longer grid outages have left hundreds of thousands of customers without power for days at a time. In response to this reality, and the resulting increase in demand for backup power, we have developed Tesla Backup Switch.\nTesla Backup Switch is a component in the Tesla Powerwall system that facilitates backup power functionality by quickly and safely disconnecting your home from the grid when a power outage is detected. The system then automatically shifts your home’s energy use to backup power from your Powerwall. Backup Switch can be installed in whole home backup systems and cannot be installed in partial backup systems.",
+        "category": "Component"
+      },
+      {
+        "title": "Why Backup Switch",
+        "content": "Whole Home Backup by Design: Backup Switch is designed to be easily installed in your home’s existing meter socket and to safely disconnect your home during grid outages.\nSleek Aesthetics: Backup Switch slips seamlessly behind your utility meter and can be installed with fewer additional electrical components compared to standard Powerwall installations.\nFaster Powerwall Installation: Use of Tesla Backup Switch cuts Powerwall installation times by more than six hours, resulting in installer and customer savings.\nAvoids Extensive Rewiring: For homes where the utility meter and main panel box are combined as a single piece of equipment, whole home backup requires the relocation of every load circuit out of the original main panel and into a new backup load panel – this unnecessary work and an additional panel on the wall are avoided by using Backup Switch.",
+        "category": "Benefits"
+      },
+      {
+        "title": "Product Overview",
+        "content": "Tesla Backup Switch is designed to simplify installation of your Powerwall system. It plugs into your meter socket, with the meter plugging directly into the Backup Switch. Within the Backup Switch housing, the contactor controls your system’s connection to the grid. The built-in consumption meter provides energy usage monitoring, providing you with precise, real-time data of your home’s energy consumption.",
+        "category": "Overview"
+      },
+      {
+        "title": "Tesla App for Energy",
+        "content": "The Tesla app offers an all-in-one experience for you to manage your Tesla energy products from anywhere and at any time. To get started, download the Tesla app from the App Store or Google Play store and sign in to your Tesla Account.",
+        "category": "Introduction"
+      },
+      {
+        "title": "Getting Started With the Tesla App",
+        "content": "Before you begin using your Tesla energy product, explore additional resources to get started with the Tesla app:\n- Create a Tesla Account\n- Add New User\n- Register Your Powerwall\n- Register Your Solar Inverter\n- Connect Powerwall to Wi-Fi\n- Restart Your Powerwall",
+        "category": "Getting Started"
+      },
+      {
+        "title": "Tesla App Features for Energy Products",
+        "content": "The Tesla app allows you to manage your energy system from anywhere with a comprehensive view of your home. Monitor day-to-day operations and understand the flow of energy in your home.\n- Data and Insights\n- Energy Optimization for Powerwall\n- Backup Security for Powerwall\n- Software Updates\n- Manage Access to Tesla Energy System",
+        "category": "Features"
+      },
+      {
+        "title": "Connecting Powerwall to Wi-Fi",
+        "content": "Connecting to Wi-Fi provides your Powerwall with a more stable connection to Tesla. There are two methods for your Gateway to connect to or update your Powerwall’s Wi-Fi connection:\n- If Powerwall is Disconnected from the Internet\n- If Powerwall is Connected to the Internet via Cellular or Wired Ethernet",
+        "category": "Configuration"
+      },
+      {
+        "title": "Energy Data",
+        "content": "The Tesla app provides rich insight into your home's energy usage, solar generation, and Powerwall charging behavior. The energy graphs will help you understand energy data over time and maximize the benefits of your renewable energy at home.",
+        "category": "Insights"
+      },
+      {
+        "title": "Impact Cards",
+        "content": "Impact Cards allow you to measure the high-level impact and performance of your solar and Powerwall systems. The following Impact Cards present a specific subset of data for your energy system:\n- Self-Powered\n- Solar and Energy Value\n- Solar Offset\n- Time-of-Use\n- Backup History",
+        "category": "Analytics"
+      },
+      {
+        "title": "Utility Rate Plans",
+        "content": "One of the benefits of a Tesla solar system is reduced energy consumption from the grid, resulting in lower utility bills. Having an accurate rate plan helps your Tesla solar system maximize savings.",
+        "category": "Utility"
+      },
+      {
+        "title": "How can I check if I have the rate plan features in the Tesla app?",
+        "content": "To check if you have the rate plan features in the Tesla app, navigate to the energy home screen and review the options available.",
+        "category": "General"
+    },
+    {
+        "title": "If I change my rate plan in the Tesla app, does that change my utility bill?",
+        "content": "Yes, changing your rate plan in the Tesla app can affect your utility bill, as it may impact how your Powerwall operates and interacts with your utility's pricing structure.",
+        "category": "General"
+    },
+    {
+        "title": "Can I edit my rate plan to find additional savings with my utility?",
+        "content": "Yes, you can edit your rate plan in the Tesla app to potentially find additional savings with your utility.",
+        "category": "General"
+    },
+    {
+        "title": "Does Powerwall support tiered rates?",
+        "content": "Yes, Powerwall supports tiered rates and can optimize its operation based on your utility's rate structure.",
+        "category": "General"
+    },
+    {
+        "title": "How accurate is Solar Value and Energy Value?",
+        "content": "The accuracy of Solar Value and Energy Value depends on various factors such as your energy usage patterns, solar generation, and utility rates.",
+        "category": "General"
+    },
+    {
+        "title": "When will my Powerwall get support for rate plan features and Solar and Energy Value cards?",
+        "content": "Support for rate plan features and Solar and Energy Value cards depends on updates from Tesla. Check for announcements or updates in the Tesla app for availability.",
+        "category": "General"
+    },
+    {
+        "title": "Can I edit rate plans to change the behavior of Time-Based Control?",
+        "content": "Yes, you can edit rate plans to change the behavior of Time-Based Control in the Tesla app.",
+        "category": "Time of Use"
+    },
+    {
+        "title": "Why did my Powerwall reduce charging and discharging during the winter?",
+        "content": "Powerwall may reduce charging and discharging during the winter to optimize its performance in response to weather conditions and energy needs.",
+        "category": "Time of Use"
+    },
+    {
+        "title": "I just updated my rate plans in-app. Why can’t I see the Power Flow change?",
+        "content": "If you can't see the Power Flow change after updating your rate plans in the app, check for any system notifications or consult Tesla customer support for assistance.",
+        "category": "Additional Support"
+    },
+    {
+        "title": "My rate plan or utility is not available on the list. How do I set up my rate plan?",
+        "content": "If your rate plan or utility is not available on the list, contact Tesla customer support for assistance with setting up your rate plan.",
+        "category": "Additional Support"
+    },
+    {
+        "title": "How is Tesla Electric affected by Utility Rate Plans?",
+        "content": "Tesla Electric may be affected by Utility Rate Plans depending on how they interact with your Powerwall and solar system. Consult your utility provider for more information.",
+        "category": "Additional Support"
+    },
+    {
+        "title": "Backup Reserve",
+        "content": "Backup Reserve allows you to determine how much of your Powerwall’s stored energy will automatically be saved for backup power.",
+        "category": "Backup Reserve"
+    },
+    {
+        "title": "Storm Watch",
+        "content": "Storm Watch ensures that your Powerwall has enough stored energy to power the home in the event of a grid outage during severe weather events.",
+        "category": "Storm Watch"
+    },
+    {
+        "title": "Go Off-Grid",
+        "content": "Go Off-Grid allows you to disconnect your Powerwall from your utility grid, simulating the experience of being off the electrical grid.",
+        "category": "Go Off-Grid"
+    },
+    {
+        "title": "Time-Based Control",
+        "content": "Time-Based Control optimizes energy usage by charging when energy costs are low and powering the home when costs are high.",
+        "category": "Time-Based Control"
+    },
+    {
+        "title": "Self-Powered",
+        "content": "Self-Powered mode stores solar energy not used during the day to power your home at night, increasing energy independence.",
+        "category": "Self-Powered"
+    },
+    {
+        "title": "Energy Exports",
+        "content": "Energy Exports allow Powerwall to send energy back to the grid for Time of Use purposes.",
+        "category": "Advanced Settings"
+    },
+    {
+        "title": "Preconditioning",
+        "content": "Preconditioning heats Powerwall when temperatures are low to improve operation and charging performance.",
+        "category": "Advanced Settings"
+    },
+    {
+        "title": "Vehicle Charging During Outage",
+        "content": "Powerwall coordinates with Tesla vehicles for enhanced vehicle charging during a power outage.",
+        "category": "Advanced Settings"
+    },
+    {
+        "title": "Registration",
+        "content": "To complete installation of your Powerwall, you must register it to your Tesla Account and connect it to your home Wi-Fi network.",
+        "category": "Registration"
+    },
+    {
+      "title": "How Powerwall Provides Backup Power",
+      "content": "When a power outage does occur, your Powerwall instantly disconnects from the grid and restores backup power to your home in a fraction of a second, over one hundred times faster than typical standby generators. This means your appliances keep running without interruption, and there’s no need to reset your clocks. You may not even notice when an outage occurs. If you have solar, your Powerwall can recharge from your solar system to run your home from solar and Powerwall even when the grid is down. A traditional solar system without a Powerwall does not function during a grid outage. If more solar energy is produced than can be used or stored during an outage, Powerwall will signal your solar inverter to reduce or turn off to protect your home from excessive power produced. This typically occurs when Powerwall is approaching 100% charge. Once Powerwall can accept power again, your solar inverter will be signaled to turn back on.",
+      "category": "Best Practices During Power Outages"
+  },
+  {
+      "title": "Backup Power Notifications",
+      "content": "If the grid has been unavailable for at least five minutes, the Tesla app will alert you so you can manage energy usage accordingly. A second notification is sent when power is restored. To ensure you receive this alert, go to ‘Settings’ and select ‘Notifications’ in the Tesla app. You can set preferences for receiving all notifications, including power outages. Ensure that your device settings allow notifications from the Tesla app.",
+      "category": "Best Practices During Power Outages"
+  },
+  {
+      "title": "Managing Your Power During an Outage",
+      "content": "During an outage, you can back up any number of appliances, so long as their combined power usage does not exceed the total power rating of your Powerwalls. The best way to extend your use of Powerwall during a grid outage is to reduce the use of energy-intensive appliances like air conditioners, car charging, electric heaters, and dishwashers. During a power outage, Powerwall can also coordinate with Tesla vehicles to charge without exceeding the power and energy needs of your home.",
+      "category": "Best Practices During Power Outages"
+  },
+  {
+      "title": "Preparing for a Power Outage",
+      "content": "Weather events causing power outages may bring grid uncertainty where your outage could last days, not hours, with lower solar production. Before a potential outage, consider doing energy-intensive activities to minimize usage during the outage. If your area is prone to more outages, consider setting a higher Backup Reserve in the Tesla app. In the event of an extreme weather event, Storm Watch will automatically prepare your Powerwall system for the possibility of a grid outage during some extreme weather events. Some weather conditions may cause a reduction in your solar panel production, like depositing leaves or snow on your panels. Consider checking your panels daily during poor weather conditions to safely clear obstructions.",
+      "category": "Best Practices During Power Outages"
+  },
+  {
+      "title": "Overloading Your Powerwall",
+      "content": "Starting more energy-intensive loads during a power outage may overload Powerwall and cause it to stop providing power to your home. If this occurs, turn off these loads, and Powerwall will attempt to restart within a minute. Otherwise, consider manually restarting Powerwall.",
+      "category": "Best Practices During Power Outages"
+  },
+  {
+      "title": "Running Low on Energy",
+      "content": "If Powerwall has less than 10% energy remaining, it will enter a standby state and stop providing power to your home. If your system is connected to the internet, you'll receive a push notification in the Tesla mobile app when Powerwall enters standby.",
+      "category": "Best Practices During Power Outages"
+  },
+  {
+      "title": "How to Restart Your Powerwall",
+      "content": "If your Powerwall system stops powering your home, it may be in a standby state after running low on energy or after repeated overloads. If your system is connected to the internet, you'll receive a push notification when Powerwall enters standby, or encounters overloads. To restart your Powerwall, turn off any energy-intensive loads to reduce the amount of power needed. You can initiate a restart with a quick toggle of the on/off switch on the Powerwall.",
+      "category": "Best Practices During Power Outages"
+  },
+  {
+      "title": "Resetting Your Grid Connection",
+      "content": "If the manual restart is not successful in bringing Powerwall back online, you can reset the entire system by power cycling your Gateway or Backup Switch by using the reset button.",
+      "category": "Best Practices During Power Outages"
+  },
+  {
+      "title": "Local Monitoring",
+      "content": "The Tesla app may not have the latest data if your internet and cellular go down. You can always see your Powerwall power flow and charge level by connecting to your Gateway 1 or 2 or Powerwall to monitor your system locally from a web browser on your local network.",
+      "category": "Best Practices During Power Outages"
+  },
+  {
+    "title": "Connecting to Tesla Gateway and Powerwall+",
+    "content": "Find your password.\nConnect to your local system network.\nHow to Sign In\nUpdate Network Settings",
+    "category": "Best Practices During Power Outages"
+},
+{
+    "title": "Monitor Power Flow and Charge Level",
+    "content": "Once you have signed in, you will be able to monitor your power flow and charge level. This will be useful if you have lost connection to your Tesla app and want to know the status of your Powerwall.",
+    "category": "Best Practices During Power Outages"
+},
+{
+    "title": "Troubleshooting Your Powerwall",
+    "content": "Your Powerwall may require some basic troubleshooting from time to time. Some issues can be resolved from the convenience of your home, without the need for additional technician assistance.",
+    "category": "Best Practices During Power Outages"
+},
+  {
+      "title": "What to Know About Scheduling Service",
+      "content": "Tesla offers different support resources to help you manage your energy products.",
+      "category": "Best Practices During Power Outages"
+  },
+  {
+      "title": "Types of Service Work",
+      "content": "The Service team’s mission is to train and develop a team of photovoltaic and energy storage field Service Technicians, providing expert service and support for the life of the system agreement.",
+      "category": "Best Practices During Power Outages"
+  }
+      
+      
+  ]
+  
