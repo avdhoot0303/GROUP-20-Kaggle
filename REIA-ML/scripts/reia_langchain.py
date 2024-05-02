@@ -12,9 +12,9 @@ class REIA_langchain_RAG:
     def __init__(self):
         os.environ['LANGCHAIN_TRACING_V2'] = 'true'
         os.environ['LANGCHAIN_ENDPOINT'] = 'https://api.smith.langchain.com'
-        os.environ['LANGCHAIN_API_KEY'] = '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'  # Set your LangChain API key
+        os.environ['LANGCHAIN_API_KEY'] = 'YOUR API KEY'  # Set your LangChain API key
         os.environ['LANGCHAIN_PROJECT'] = "REIA"
-        os.environ['OPENAI_API_KEY'] = 'sk-proj-I1Z6g5eMHRnlUFR4exUXT3BlbkFJuyWWTVp5qgIvz9Oxehvp'  # Set your OpenAI API key
+        os.environ['OPENAI_API_KEY'] = 'YOUR API KEY'  # Set your OpenAI API key
         os.environ['KMP_DUPLICATE_LIB_OK']='True'
 
         self.db_list = []
